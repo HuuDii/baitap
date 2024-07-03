@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.codeActionsOnSave": {},
+  "files.autoSaveDelay": 5,
+  "liveServer.settings.wait": 3,
+  "liveServer.settings.fullReload": true
+}

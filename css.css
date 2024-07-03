@@ -1,0 +1,22 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.BEM {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}   
+
+.BEM .btn {
+    border: none;
+    background-color: #fff;
+}
+
+.btn--success {
+    background-color: aqua;
+}
